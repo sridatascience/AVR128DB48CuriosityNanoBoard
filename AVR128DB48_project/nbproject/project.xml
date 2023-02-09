@@ -3,8 +3,8 @@
     <type>com.microchip.mplab.nbide.embedded.makeproject</type>
     <configuration>
         <data xmlns="http://www.netbeans.org/ns/make-project/1">
-            <name>PIC18F4610</name>
-            <creation-uuid>c3e8ce7d-122f-4b9c-a6b7-7d3e76dfd197</creation-uuid>
+            <name>AVR128DB48_project</name>
+            <creation-uuid>a8dccdbd-85d0-4fbe-b631-a323103948d0</creation-uuid>
             <make-project-type>0</make-project-type>
             <sourceEncoding>UTF-8</sourceEncoding>
             <make-dep-projects/>
