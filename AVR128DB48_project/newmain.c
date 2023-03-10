@@ -12,6 +12,6 @@ int main() {
    volatile uint8_t b =0x08;
    PORTC.DIR = b;
    volatile uint8_t t = add(a,b,c);
-   PORTA.DIR = t;
+   PORTD.DIR = t;
    return 0;
 }
